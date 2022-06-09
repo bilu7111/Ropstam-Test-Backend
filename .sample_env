@@ -1,0 +1,3 @@
+API_PORT=4001
+TOKEN_KEY="Ropstam_Backend_Test"
+MONGO_URI="mongodb://localhost:27017"
